@@ -1,6 +1,6 @@
 ## 📖 Sobre
 
-Projeto realizado dentro do curso de Desenvolvimento Web (BetaHub) na plataforma da Rocketseat para reforçar os conceitos de **CSS Media Queries** para criação de páginas responsivas.
+Projeto realizado dentro do curso de Desenvolvimento Web (BetaHub) na plataforma da Rocketseat para reforçar os conceitos de CSS para criação de páginas web.
 
 <p align="center">  
    <img src="resources/banner.png" alt="Banner do projeto"/> 
