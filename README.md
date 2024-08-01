@@ -1,6 +1,6 @@
 ## 📖 Sobre
 
-Projeto realizado dentro do curso de Desenvolvimento Web (BetaHub) na plataforma da Rocketseat para reforçar e avançar nos conceitos de CSS na criação de páginas web.
+Projeto realizado dentro do curso de Desenvolvimento Web (BetaHub) na plataforma da Rocketseat para reforçar e avançar nos conceitos de CSS Grid na criação de páginas web.
 
 <p align="center">  
    <img src="resources/banner.png" alt="Banner do projeto"/> 
